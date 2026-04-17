@@ -1,0 +1,52 @@
+kaggle: How AI is Changing Life | AI and Student Life 2026
+https://www.kaggle.com/datasets/sohaibdevv/ai-and-student-life-2026-the-new-normal
+About Dataset
+About this Dataset
+This dataset explores the intersection of Artificial Intelligence and higher education in 2026. As AI tools become standard in every classroom, I created this synthetic data to help fellow students and researchers analyze the real-world impact of LLMs on academic performance and mental well-being.
+
+Key Features:
+Academic Metrics: Baseline GPA vs. Post-AI GPA.
+Student Behavior: Primary tools used (Claude, ChatGPT, Copilot) and daily usage hours.
+Trendy Insights: Ethics concerns and "AI Career Readiness" scores.
+Potential Use Cases:
+Predict a student's career confidence based on their AI usage.
+Analyze which majors are adopting AI tools the fastest.
+Build a regression model to see the impact of AI on GPA.
+
+
+
+kaggle: Developer Burnout Prediction Dataset(7000 Samples)
+https://www.kaggle.com/datasets/asifxzaman/developer-burnout-prediction-dataset7000-samples
+About Dataset
+📊 Overview
+This dataset models developer work patterns, stress levels, and burnout risk based on lifestyle and productivity factors.
+
+It captures realistic relationships between workload, health habits, and mental stress.
+
+🎯 Objective
+Predict burnout level (Low/Medium/High)
+Analyze impact of work-life balance
+Perform classification tasks
+📁 Features
+age: Developer age
+experience_years: Years of experience
+daily_work_hours: Work hours per day
+sleep_hours: Sleep duration
+caffeine_intake: Cups per day
+bugs_per_day: Bugs produced
+commits_per_day: Git commits
+meetings_per_day: Meetings attended
+screen_time: Total screen time
+exercise_hours: Physical activity
+stress_level: Stress score (0–100)
+burnout_level: Target variable
+⚙️ Dataset Characteristics
+7000 rows
+Includes missing values (~2%)
+Realistic feature dependencies
+Suitable for classification and analysis
+💡 Use Cases
+Burnout prediction models
+Workplace productivity analysis
+Health & lifestyle data science projects
+
