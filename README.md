@@ -87,4 +87,3 @@ As imagens principais podem ser salvas na pasta `screenshots/`, por exemplo:
 - `screenshots/04_temporal_heatmap.png`
 
 > Se desejar, personalize cores, logotipo e textos para aderir ao branding da sua empresa.
-
