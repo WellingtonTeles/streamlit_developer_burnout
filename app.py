@@ -428,7 +428,7 @@ I18N = {
         "high_burnout_pct": "Burnout Alto (%)",
         "avg_stress": "Estresse Medio",
         "about_title": "Metodologia e Fonte dos Dados",
-        "about_info": "Personalize marca, cores e textos para usar este app como case comercial da sua empresa.",
+        "about_info": "Desenvolvido por Wellington Teles - wellingtonteles@gmail.com.",
     },
     "EN_US": {
         "lang_toggle": "Language / Idioma",
@@ -491,7 +491,7 @@ I18N = {
         "high_burnout_pct": "High Burnout (%)",
         "avg_stress": "Average Stress",
         "about_title": "Methodology and Data Source",
-        "about_info": "Customize brand, colors, and text to use this app as a commercial case study.",
+        "about_info": "Developed by Wellington Teles - wellingtonteles@gmail.com.",
     },
 }
 
